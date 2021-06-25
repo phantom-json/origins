@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "origins:natural_armor",
+        "origins:no_shield",
+        "origins:water_vulnerability",
+        "custom:no_hunger",
+        "custom:squirtle"
+    ],
+    "icon": "minecraft:iron_block",
+    "order": 8,
+    "impact": 3,
+    "name": "Robot",
+    "description": "A custom Robot origin created by twitch.tv/phantomglitch_"
+}

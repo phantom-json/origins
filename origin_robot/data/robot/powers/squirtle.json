@@ -1,0 +1,14 @@
+{
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+        "attribute":"minecraft:generic.armor",
+        "operation":"addition",
+        "value": 3
+    },
+    "tick_rate": 20,
+    "condition": {
+        "type":"origins:sneaking"
+    },
+    "name": "Heavy Frame",
+    "description": "Your bones are made from solid steel, slow down. you gain the slowness effect while sprinting"
+}

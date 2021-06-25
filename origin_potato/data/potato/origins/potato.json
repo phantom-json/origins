@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "origins:climbing",
+        "custom:sun_saturation",
+        "custom:soggy_tater",
+        "origins:vegetarian"
+    ],
+    "icon": "minecraft:potato",
+    "order": 9,
+    "impact": 3,
+    "name": "Potato",
+    "description": "A custom potato origin to end the famine."
+}

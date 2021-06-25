@@ -1,0 +1,27 @@
+{
+    "type": "origins:multiple",
+    "regenerate_food": {
+      "type": "origins:action_over_time",
+      "interval": 15,
+      "entity_action": {
+        "type": "origins:feed",
+        "food": 1,
+        "saturation": 1
+      },
+      "condition": {
+        "type": "origins:and",
+        "conditions": [
+          {
+            "type": "origins:exposed_to_sun"
+          },
+          {
+              "type": "origins:food_level",
+              "comparison": "<=",
+              "compare_to": "20"
+          }
+        ]
+      }
+    },
+    "name": "Photosynthesis",
+    "description": "Potatos make there own food when exposed to the sun"
+}

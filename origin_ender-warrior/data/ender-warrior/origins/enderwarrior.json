@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "origins:natural_armour",
+        "origins:fall_immunity",
+        "origins:water_vulnerability",
+        "origins:pumpkin_hate",
+        "custom:hot_potato"
+    ],
+    "icon": "minecraft:end_gateway",
+    "order": 10,
+    "impact": 3,
+    "name": "Ender Warrior",
+    "description": "A noble warrior from a dimension far far away"
+}

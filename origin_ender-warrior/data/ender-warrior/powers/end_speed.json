@@ -1,0 +1,26 @@
+{
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 1,
+    "duration_per_stack": 20,
+    "effect": {
+        "effect": "minecraft:speed",
+        "duration": "100",
+        "amplifier": 0,
+        "is ambient": true,
+        "show_particles": false,
+        "show_icon": true
+    },
+    "condition": {
+        "type": "origins:biome",
+        "biome": [
+            "minecraft:the_end",
+            "minecraft:small_end_islands",
+            "minecraft:end_midlands",
+            "minecraft:end_highlands",
+            "minecraft:end_barrens"
+        ]
+    },
+    "name": "Ender Speed",
+    "description": "Time warps around you in the end, grants speed 1 while in the end"
+}

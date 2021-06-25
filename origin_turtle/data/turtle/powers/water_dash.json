@@ -1,0 +1,15 @@
+{
+    "type": "origins:active_self",
+    "entity_action": {
+        "type": "origins:add_velocity",
+        "z": 1,
+        "space": "local"
+    },
+    "cooldown":100,
+    "hud_render": {
+        "should_render": true,
+        "bar_index": 5
+    },
+    "name": "Water Dash",
+    "description": "You can gain a forward velocity when in water."
+}

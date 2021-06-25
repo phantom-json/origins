@@ -1,0 +1,12 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:on_fire"
+    },
+    "modifier": {
+        "value": 10,
+        "operation": "multiply_base"
+    },
+    "name": "Hot feet",
+    "description": "nobody likes hot feet. take 1 heart more damage when on fire."
+}

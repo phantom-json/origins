@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "origins:vegetarian",
+        "origins:water_breathing",
+        "origins:aqua_affinity",
+        "origins:water_vision",
+        "origins:natural_armor",
+        "custom:water_legs",
+        "custom:shielded",
+        "custom:water_dash"
+    ],
+    "icon": "minecraft:kelp",
+    "order": 10,
+    "impact": 2,
+    "name": "turtle",
+    "description": "A simple turtle origin to help teach people how to make Origin datapacks!"
+}
