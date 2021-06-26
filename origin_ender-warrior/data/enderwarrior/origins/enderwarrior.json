@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "origins:throw_ender_pearl",
+        "origins:natural_armor",
+        "origins:fall_immunity",
+        "origins:water_vulnerability",
+        "origins:pumpkin_hate"
+    ],
+    "icon": "minecraft:end_portal_frame",
+    "order": 10,
+    "impact": 3,
+    "name": "Ender Warrior",
+    "description": "A custom Warrior origin that lurks in the end dimension"
+}
